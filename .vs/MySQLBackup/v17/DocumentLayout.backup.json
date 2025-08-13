@@ -31,14 +31,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "SELECT.sql - (local)\\SQLEXPRESS.master (AzureAD\\SanthoshKumarS (52))",
+              "Title": "SELECT.sql - (local)\\SQLEXPRESS.master (AzureAD\\SanthoshKumarS (53))",
               "DocumentMoniker": "C:\\Users\\SanthoshKumarS\\Documents\\MySQLBackup\\SELECT.sql",
               "RelativeDocumentMoniker": "SELECT.sql",
-              "ToolTip": "C:\\Users\\SanthoshKumarS\\Documents\\MySQLBackup\\SELECT.sql - (local)\\SQLEXPRESS.master (AzureAD\\SanthoshKumarS (52))",
-              "RelativeToolTip": "SELECT.sql - (local)\\SQLEXPRESS.master (AzureAD\\SanthoshKumarS (52))",
+              "ToolTip": "C:\\Users\\SanthoshKumarS\\Documents\\MySQLBackup\\SELECT.sql - (local)\\SQLEXPRESS.master (AzureAD\\SanthoshKumarS (53))",
+              "RelativeToolTip": "SELECT.sql - (local)\\SQLEXPRESS.master (AzureAD\\SanthoshKumarS (53))",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
               "WhenOpened": "2025-08-01T06:48:03.29Z",
-              "EditorCaption": " - (local)\\SQLEXPRESS.master (AzureAD\\SanthoshKumarS (52))"
+              "EditorCaption": " - (local)\\SQLEXPRESS.master (AzureAD\\SanthoshKumarS (53))"
             },
             {
               "$type": "Document",
@@ -55,26 +55,30 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "StoreProcedure.sql - (local)\\SQLEXPRESS.master (AzureAD\\SanthoshKumarS (56))",
+              "Title": "StoreProcedure.sql",
               "DocumentMoniker": "C:\\Users\\SanthoshKumarS\\Documents\\MySQLBackup\\StoreProcedure.sql",
               "RelativeDocumentMoniker": "StoreProcedure.sql",
-              "ToolTip": "C:\\Users\\SanthoshKumarS\\Documents\\MySQLBackup\\StoreProcedure.sql - (local)\\SQLEXPRESS.master (AzureAD\\SanthoshKumarS (56))",
-              "RelativeToolTip": "StoreProcedure.sql - (local)\\SQLEXPRESS.master (AzureAD\\SanthoshKumarS (56))",
+              "ToolTip": "C:\\Users\\SanthoshKumarS\\Documents\\MySQLBackup\\StoreProcedure.sql",
+              "RelativeToolTip": "StoreProcedure.sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
               "WhenOpened": "2025-07-31T10:23:03.589Z",
-              "EditorCaption": " - (local)\\SQLEXPRESS.master (AzureAD\\SanthoshKumarS (56))"
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "SQLQuery1.sql - (local)\\SQLEXPRESS.master (AzureAD\\SanthoshKumarS (52))",
+              "Title": "SQLQuery1.sql",
               "DocumentMoniker": "C:\\Users\\SanthoshKumarS\\Documents\\MySQLBackup\\SQLQuery1.sql",
               "RelativeDocumentMoniker": "SQLQuery1.sql",
-              "ToolTip": "C:\\Users\\SanthoshKumarS\\Documents\\MySQLBackup\\SQLQuery1.sql - (local)\\SQLEXPRESS.master (AzureAD\\SanthoshKumarS (52))",
-              "RelativeToolTip": "SQLQuery1.sql - (local)\\SQLEXPRESS.master (AzureAD\\SanthoshKumarS (52))",
+              "ToolTip": "C:\\Users\\SanthoshKumarS\\Documents\\MySQLBackup\\SQLQuery1.sql",
+              "RelativeToolTip": "SQLQuery1.sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
               "WhenOpened": "2025-07-31T10:22:58.86Z",
-              "EditorCaption": " - (local)\\SQLEXPRESS.master (AzureAD\\SanthoshKumarS (52))"
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ed7d6f85-175b-4b57-9887-71fe8b865fc8}"
             },
             {
               "$type": "Bookmark",

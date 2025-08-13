@@ -26,31 +26,35 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ed7d6f85-175b-4b57-9887-71fe8b865fc8}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "SELECT.sql - (local)\\SQLEXPRESS.master (AzureAD\\SanthoshKumarS (53))",
+              "Title": "SELECT.sql - (local)\\SQLEXPRESS.master (AzureAD\\SanthoshKumarS (67))",
               "DocumentMoniker": "C:\\Users\\SanthoshKumarS\\Documents\\MySQLBackup\\SELECT.sql",
               "RelativeDocumentMoniker": "SELECT.sql",
-              "ToolTip": "C:\\Users\\SanthoshKumarS\\Documents\\MySQLBackup\\SELECT.sql - (local)\\SQLEXPRESS.master (AzureAD\\SanthoshKumarS (53))",
-              "RelativeToolTip": "SELECT.sql - (local)\\SQLEXPRESS.master (AzureAD\\SanthoshKumarS (53))",
+              "ToolTip": "C:\\Users\\SanthoshKumarS\\Documents\\MySQLBackup\\SELECT.sql - (local)\\SQLEXPRESS.master (AzureAD\\SanthoshKumarS (67))",
+              "RelativeToolTip": "SELECT.sql - (local)\\SQLEXPRESS.master (AzureAD\\SanthoshKumarS (67))",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
               "WhenOpened": "2025-08-01T06:48:03.29Z",
-              "EditorCaption": " - (local)\\SQLEXPRESS.master (AzureAD\\SanthoshKumarS (53))"
+              "EditorCaption": " - (local)\\SQLEXPRESS.master (AzureAD\\SanthoshKumarS (67))"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "dbo.Courses.Table.sql - (local)\\SQLEXPRESS.master (AzureAD\\SanthoshKumarS (55))",
+              "Title": "dbo.Courses.Table.sql",
               "DocumentMoniker": "C:\\Users\\SanthoshKumarS\\Documents\\MySQLBackup\\storeprocedure\\dbo.Courses.Table.sql",
               "RelativeDocumentMoniker": "storeprocedure\\dbo.Courses.Table.sql",
-              "ToolTip": "C:\\Users\\SanthoshKumarS\\Documents\\MySQLBackup\\storeprocedure\\dbo.Courses.Table.sql - (local)\\SQLEXPRESS.master (AzureAD\\SanthoshKumarS (55))",
-              "RelativeToolTip": "storeprocedure\\dbo.Courses.Table.sql - (local)\\SQLEXPRESS.master (AzureAD\\SanthoshKumarS (55))",
+              "ToolTip": "C:\\Users\\SanthoshKumarS\\Documents\\MySQLBackup\\storeprocedure\\dbo.Courses.Table.sql",
+              "RelativeToolTip": "storeprocedure\\dbo.Courses.Table.sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
               "WhenOpened": "2025-07-31T11:25:06.549Z",
-              "EditorCaption": " - (local)\\SQLEXPRESS.master (AzureAD\\SanthoshKumarS (55))"
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -75,10 +79,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
               "WhenOpened": "2025-07-31T10:22:58.86Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{ed7d6f85-175b-4b57-9887-71fe8b865fc8}"
             },
             {
               "$type": "Bookmark",
